@@ -1,0 +1,16 @@
+?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suites">
+    <test name="/Users/amolmalpure/IdeaProjects/SeleniumWithPOM ">
+        <classes>
+
+
+            <class name="">
+                <methods>
+                    <include name=""/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
